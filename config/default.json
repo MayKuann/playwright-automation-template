@@ -1,0 +1,13 @@
+{
+  "baseURL": "http://localhost:3000",
+
+  "environment": "development",
+
+  "logging": {
+    "level": "info",
+    "file": "./logs/test-execution.log",
+    "console": true
+  }
+
+  
+}
